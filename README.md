@@ -1,2 +1,2 @@
 # vjezba-zadataka
-Vjezbanje kolokviji
+Vjezbanje kolokvija
