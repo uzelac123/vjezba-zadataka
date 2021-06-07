@@ -1,2 +1,3 @@
-# vjezba-zadataka
+# vjezba zadataka
 Vjezbanje kolokvija
+
