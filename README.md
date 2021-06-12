@@ -1,3 +1,2 @@
 # vjezba zadataka
-Vjezbanje kolokvija
-
+Vjezbanje kolokvija  
